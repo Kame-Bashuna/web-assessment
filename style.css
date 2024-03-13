@@ -1,0 +1,49 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+}
+#button{
+    padding: 10px;
+    width: 80px;
+    height: 5%;
+    border-radius: 10px 10px;
+    background-color: black;
+    color:white;
+    margin-top: 1%;
+}
+#top{
+    display: flex;
+    justify-content: space-between;
+}
+#toppy{
+    display: flex;
+    justify-content: space-between;
+}
+#images{
+    display: flex;
+    justify-content: space-between;
+}
+#bottom{
+    display: flex;
+    justify-content: space-around;
+}
+#pic{
+    display: flex;
+    justify-content: space-between;
+}
+#flot{
+    display: flex;
+    justify-content: space-between;
+}
+#picture1{
+    display: flex;
+    justify-content: space-between;
+}
+#picture2{
+    display: flex;
+    justify-content: space-between;
+}
+#bucket{
+    display: flex;
+    justify-content: space-between;
+}
